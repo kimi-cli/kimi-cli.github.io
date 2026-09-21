@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kimi-cli.github.io/sitemap.xml
