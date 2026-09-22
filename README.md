@@ -21,4 +21,5 @@ This is worth installing if you work in a terminal all day and want an agent tha
 *This is an independent page with no affiliation to Moonshot AI or Kimi, and all trademarks referenced belong to their respective owners.*
 
 
+
 _Last reviewed: 2026-09-22_
